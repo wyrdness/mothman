@@ -1,0 +1,218 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2025-12-15",
+    "repository": "https://github.com/wyrdness/mothman",
+    "maintainers": [{"name": "Wyrdness Team", "github": "wyrdness", "role": "maintainer"}],
+    "license": {"data": "CC0-1.0", "content": "CC-BY-4.0"}
+  },
+  "phenomenon": {
+    "id": "mothman",
+    "name": "Mothman",
+    "aliases": [
+      {"name": "The Mothman", "region": "Point Pleasant, WV"},
+      {"name": "Bird Man", "region": "West Virginia"},
+      {"name": "Mason County Monster", "region": "West Virginia"}
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Winged Humanoid",
+    "tags": ["winged", "humanoid", "flying", "red-eyes", "harbinger", "west-virginia", "omen", "disaster"],
+    "status": "active",
+    "description": {
+      "summary": "A legendary winged humanoid creature reported in Point Pleasant, West Virginia from November 1966 to December 1967. Associated with the Silver Bridge collapse and often considered a harbinger of disaster.",
+      "full": "The Mothman is a cryptid that reportedly appeared in Point Pleasant, West Virginia and surrounding areas between November 1966 and December 1967. Witnesses described a large, man-sized or larger creature with enormous wings and glowing red eyes. The Mothman phenomenon became inextricably linked to the collapse of the Silver Bridge on December 15, 1967, which killed 46 people. This association has led to Mothman's reputation as an omen or harbinger of disaster. The town of Point Pleasant has embraced the legend with a museum, statue, and annual festival."
+    },
+    "etymology": {
+      "origin": "The name 'Mothman' was coined by an Ohio newspaper copyeditor in 1966, inspired by the Batman TV series that was popular at the time.",
+      "meaning": "Combination of 'moth' (due to wing descriptions) and 'man' (humanoid form)",
+      "first_use": "1966"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Winged Humanoid",
+      "subtype": "Flying Cryptid",
+      "variant": "North American"
+    },
+    "related_phenomena": [
+      {"id": "owlman", "name": "Owlman of Mawnan", "relationship": "similar", "description": "Cornish winged humanoid (UK)"},
+      {"id": "thunderbirds", "name": "Thunderbirds", "relationship": "related", "description": "Giant birds of Native American legend"},
+      {"id": "jersey-devil", "name": "Jersey Devil", "relationship": "similar", "description": "Winged cryptid of New Jersey"}
+    ]
+  },
+  "characteristics": {
+    "physical": {
+      "height": {"min": 1.8, "max": 2.1, "unit": "meters", "confidence": "medium"},
+      "wingspan": {"min": 3, "max": 4.5, "unit": "meters", "confidence": "medium"},
+      "coloration": ["gray", "dark brown", "black"],
+      "features": [
+        {"feature": "Wings", "description": "Large bat-like or bird-like wings, 10-15 foot wingspan", "frequency": "always"},
+        {"feature": "Red eyes", "description": "Large, glowing red eyes, hypnotic quality reported", "frequency": "always"},
+        {"feature": "No visible head", "description": "Eyes often described as set in shoulders/chest area", "frequency": "common"},
+        {"feature": "Humanoid body", "description": "Man-shaped torso and limbs", "frequency": "always"},
+        {"feature": "No visible arms", "description": "Arms not typically reported; wings may substitute", "frequency": "common"}
+      ],
+      "morphology": "Large humanoid figure with massive wings folded against or extending from back. Most distinctive feature is large, luminous red eyes. Body described as muscular, gray or dark in color. Witnesses often note absence of discernible head, with eyes appearing to be set directly in upper body."
+    },
+    "abilities": [
+      {"ability": "Flight", "description": "Capable of high-speed flight without flapping; estimated 100+ mph", "frequency": "always", "evidence_level": "reported"},
+      {"ability": "Eye illumination", "description": "Eyes produce or reflect bright red light visible at distance", "frequency": "always", "evidence_level": "reported"},
+      {"ability": "Speed", "description": "Kept pace with cars traveling 100 mph", "frequency": "common", "evidence_level": "reported"},
+      {"ability": "Precognition/Warning", "description": "Alleged harbinger of disasters", "frequency": "occasional", "evidence_level": "folklore"}
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "neutral",
+      "social_structure": "solitary",
+      "habitat_preference": ["abandoned buildings", "TNT area", "wooded areas", "near bridges"],
+      "patterns": ["Often appears before disasters", "Pursues vehicles", "Does not attack but frightens", "Associated with UFO activity"]
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Primarily confined to Point Pleasant, West Virginia and Mason County during 1966-1967. Sporadic reports from other locations in subsequent decades.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["West Virginia", "Ohio (scattered)", "Worldwide (sporadic reports)"]
+    },
+    "hotspots": [
+      {
+        "name": "TNT Area",
+        "location": {"description": "Former WWII munitions site", "country": "United States", "region": "West Virginia", "coordinates": {"latitude": 38.8387, "longitude": -82.1346}},
+        "sighting_count": 50,
+        "peak_period": "1966-1967",
+        "notes": "Primary location of initial sightings; abandoned igloos and dense woods"
+      },
+      {
+        "name": "Silver Bridge Site",
+        "location": {"description": "Former location of Silver Bridge", "country": "United States", "region": "Point Pleasant, WV", "coordinates": {"latitude": 38.8426, "longitude": -82.1343}},
+        "sighting_count": 10,
+        "peak_period": "1967",
+        "notes": "Site of December 15, 1967 collapse"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {"date": "1966-11-12", "circa": false, "source": "Gravediggers sighting"},
+      "peak_activity_periods": [
+        {"period": "November 1966 - December 1967", "description": "Original Point Pleasant wave; ~100 sightings"},
+        {"period": "2016-2017", "description": "Chicago area sightings wave"}
+      ],
+      "seasonal_patterns": "Original sightings concentrated in late fall/winter months"
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "No apparent Native American or earlier folklore for this specific entity in the region.",
+      "earliest_accounts": "November 12, 1966 - Gravediggers near Clendenin report large brown humanoid figure flying over trees.",
+      "folklore_connections": "Some researchers connect to Cornish Owlman and Native American Thunderbird traditions."
+    },
+    "timeline": [
+      {"date": "1966-11-12", "event": "First sighting by gravediggers", "significance": "Earliest documented Mothman encounter near Clendenin, WV"},
+      {"date": "1966-11-15", "event": "Scarberry/Mallette sighting", "significance": "Most famous sighting; two couples chased by creature at TNT area"},
+      {"date": "1966-11-16", "event": "Press coverage begins", "significance": "Point Pleasant Register reports story; term 'Mothman' coined"},
+      {"date": "1966-11-25", "event": "Thomas Ury sighting", "significance": "Witness reports creature flying alongside his car"},
+      {"date": "1967-12-15", "event": "Silver Bridge collapse", "significance": "46 deaths; sightings largely cease afterward; Mothman linked to disaster"},
+      {"date": "1975", "event": "John Keel's book published", "significance": "'The Mothman Prophecies' establishes paranormal interpretation"},
+      {"date": "2002", "event": "Film released", "significance": "'The Mothman Prophecies' starring Richard Gere brings national attention"},
+      {"date": "2003", "event": "Mothman statue erected", "significance": "12-foot stainless steel statue in Point Pleasant"}
+    ],
+    "modern_era": "Since 1967, Mothman sightings have been sporadic. Point Pleasant has embraced the legend with the Mothman Museum, annual Mothman Festival (since 2002), and the iconic 12-foot statue. Sporadic sighting waves occur, including notable Chicago-area reports in 2016-2017."
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 100,
+      "verified": 0,
+      "disputed": 90,
+      "debunked": 5,
+      "date_range": {"earliest": "1966-11-12", "latest": "2024"}
+    },
+    "notable": [
+      {
+        "id": "mothman-sighting-1966-scarberry",
+        "name": "Scarberry-Mallette Sighting",
+        "date": {"value": "1966-11-15", "precision": "exact"},
+        "location": {"description": "TNT Area, Point Pleasant, WV", "country": "United States", "region": "West Virginia"},
+        "witnesses": {"count": 4, "types": ["Young adults"], "credibility_factors": ["Multiple consistent witnesses", "Immediate police report", "Physical symptoms reported"]},
+        "description": "Two couples - Roger and Linda Scarberry and Steve and Mary Mallette - were driving near the TNT area around midnight when they saw a large gray creature with glowing red eyes. The creature had wings folded against its back. When they fled in their car, the creature pursued them at speeds over 100 mph, flying without flapping its wings. They drove directly to the Mason County courthouse to report the incident.",
+        "evidence": ["Police report", "Multiple witness testimony"],
+        "credibility": {"rating": "medium", "factors": ["Four consistent witnesses", "Immediate report to authorities", "Witnesses experienced terror/physical symptoms"], "notes": "Foundational Mothman sighting; witnesses maintained account for decades"},
+        "featured": true
+      },
+      {
+        "id": "mothman-sighting-1966-ury",
+        "name": "Thomas Ury Highway Sighting",
+        "date": {"value": "1966-11-25", "precision": "exact"},
+        "location": {"description": "Route 62, near TNT Area", "country": "United States", "region": "West Virginia"},
+        "witnesses": {"count": 1, "types": ["Traveling salesman"]},
+        "description": "Thomas Ury was driving on Route 62 in the early morning when he spotted a large gray figure standing in a field. As he watched, the creature spread its wings and flew straight up into the air. It then circled his car and flew alongside it as he accelerated to over 70 mph. The creature eventually veered off.",
+        "credibility": {"rating": "medium", "factors": ["Single witness", "Detailed account", "No prior knowledge of other sightings"]},
+        "featured": true
+      }
+    ],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [
+      {"id": "mothman-evidence-photos", "type": "photographs", "name": "Various alleged Mothman photos", "description": "Several photographs claimed to show Mothman; none verified", "status": "disputed"}
+    ],
+    "video": [],
+    "audio": [],
+    "documentary": [
+      {"id": "mothman-evidence-police", "type": "police reports", "name": "Mason County Sheriff Records", "date": "1966-1967", "description": "Multiple official police reports from sighting witnesses", "status": "verified", "analysis": "Reports document witnesses and their accounts; do not verify creature existence"}
+    ]
+  },
+  "theories": {
+    "paranormal": [
+      {"name": "Interdimensional Being", "description": "Mothman as an entity from another dimension, possibly connected to UFO phenomena in the area", "proponents": ["John Keel"], "evidence_cited": ["UFO sightings during same period", "Men in Black reports", "Supernatural aspects of encounters"]},
+      {"name": "Harbinger/Omen", "description": "Mothman as a warning entity that appears before disasters", "proponents": ["Various believers"], "evidence_cited": ["Silver Bridge collapse following sightings", "Reports before other disasters"]}
+    ],
+    "scientific": [
+      {"name": "Sandhill Crane", "description": "Misidentified sandhill crane, which has 7-foot wingspan, red coloring around eyes, stands 4-5 feet tall", "proponents": ["Dr. Robert L. Smith, WVU"], "evidence_cited": ["Similar size and wingspan", "Red eye area", "Known to be in region"]},
+      {"name": "Large Owl", "description": "Barred owl or great horned owl with eyeshine from car headlights", "proponents": ["Various ornithologists"], "evidence_cited": ["Owls have reflective eyes", "Can appear large in darkness", "Silent flight"]},
+      {"name": "Heron", "description": "Great blue heron, which can appear very large and has long neck", "proponents": ["Various skeptics"], "evidence_cited": ["Herons present in area", "Can appear humanoid in flight"]}
+    ],
+    "skeptical": [
+      {"name": "Mass Hysteria", "description": "Initial misidentification led to panic and suggestibility, causing more 'sightings'", "proponents": ["Joe Nickell"], "evidence_cited": ["Concentrated time period", "Media amplification", "Leading questions by investigators"]},
+      {"name": "Hoax/Prank", "description": "Some or all sightings were deliberate hoaxes", "proponents": ["Various skeptics"], "evidence_cited": ["Small town environment", "Desire for attention"]}
+    ]
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": ["Modern American folklore", "Disaster omen tradition"],
+      "stories": ["Silver Bridge collapse connection", "Various pre-disaster sighting claims"],
+      "beliefs": "Mothman has become associated with impending disasters; sightings reportedly precede tragedies."
+    },
+    "indigenous": {
+      "cultures": [],
+      "significance": "No documented Native American connection to Mothman specifically",
+      "sensitivity_note": "Not a traditional indigenous entity",
+      "respect_guidelines": "N/A"
+    },
+    "popular_culture": {
+      "literature": ["The Mothman Prophecies by John Keel (1975)", "Various subsequent books"],
+      "film_tv": ["The Mothman Prophecies (2002) starring Richard Gere", "Various documentaries"],
+      "other": ["Mothman statue in Point Pleasant (2003)", "Mothman Museum", "Annual Mothman Festival (since 2002)", "Video games", "Fallout 76 (Mothman as in-game creature)"]
+    }
+  },
+  "research": {
+    "researchers": [
+      {"name": "John Keel", "affiliation": "Independent", "contribution": "Primary chronicler; wrote The Mothman Prophecies", "period": "1966-2009"},
+      {"name": "Gray Barker", "affiliation": "Independent", "contribution": "Early UFO/paranormal researcher involved in investigation", "period": "1966-1967"},
+      {"name": "Loren Coleman", "affiliation": "Cryptozoologist", "contribution": "Ongoing research and documentation", "period": "1970s-present"}
+    ],
+    "organizations": [
+      {"name": "Mothman Museum", "url": "https://www.mothmanmuseum.com", "focus": "Preservation and exhibition of Mothman history"}
+    ],
+    "ongoing_studies": "Periodic investigation of new sighting reports; historical research into 1966-67 events."
+  },
+  "sources": [
+    {"id": "keel-1975", "type": "book", "title": "The Mothman Prophecies", "authors": ["John Keel"], "publication": "Saturday Review Press", "date": "1975"},
+    {"id": "coleman-2002", "type": "book", "title": "Mothman and Other Curious Encounters", "authors": ["Loren Coleman"], "publication": "Paraview Press", "date": "2002"},
+    {"id": "sergent-2002", "type": "book", "title": "Mothman: The Facts Behind the Legend", "authors": ["Donnie Sergent Jr.", "Jeff Wamsley"], "publication": "Mark S. Phillips Publishing", "date": "2002"}
+  ]
+}
